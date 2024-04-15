@@ -1,0 +1,40 @@
+.form-container {
+    margin-top: 20px;
+  }
+  
+  .input-container {
+    margin-bottom: 10px;
+  }
+  
+  .input-container input {
+    padding: 8px;
+    font-size: 16px;
+  }
+  
+  .boxes-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .box {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #ccc;
+    font-size: 16px;
+  }
+  
+  .red { background-color: red; }
+  .green { background-color: green; }
+  .pink { background-color: pink; }
+  .yellow { background-color: yellow; }
+  .purple { background-color: purple; }
+  .white { background-color: white; }
+  .blue { background-color: blue; }
+  .aqua { background-color: aqua; }
+  .olive { background-color: olive; }
